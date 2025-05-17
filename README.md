@@ -73,8 +73,8 @@ endmodule
 **Timing Diagram**
 
 
+![image](https://github.com/user-attachments/assets/61d0b8b4-ac20-432e-97ec-a27ec9f377f5)
 
-![Uploading WhatsApp Image 2025-05-17 at 06.16.50_3c09b5b5.jpg…]()
 
 
 
